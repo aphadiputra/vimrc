@@ -126,5 +126,5 @@ let g:UltiSnipsJumpBackwardTrigger='<c-k>'
 
 nmap <F8> :TagbarToggle<CR>
 
-source ~/.vim/python_ropevim.vim
+"source ~/.vim/python_ropevim.vim
 
